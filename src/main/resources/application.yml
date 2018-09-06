@@ -1,5 +1,5 @@
 amazonProperties:
  bucketName : prabu-s3
  endpointUrl : https://s3.us-east-1.amazonaws.com
- accessKey : AKIAICYYOTCFYA2BKLSA
- secretKey : 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
+ accessKey : 
+ secretKey : 
